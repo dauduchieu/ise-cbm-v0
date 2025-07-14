@@ -1,0 +1,14 @@
+{
+  "1": {
+    "name": "Negative Review",
+    "description": "A review with a rating of 1, indicating a highly negative experience or perception of the drug."
+  },
+  "5": {
+    "name": "Neutral Review",
+    "description": "A review with a rating of 5, indicating a neutral, mixed, or average experience with the drug."
+  },
+  "10": {
+    "name": "Positive Review",
+    "description": "A review with a rating of 10, indicating a highly positive experience or strong satisfaction with the drug."
+  }
+}

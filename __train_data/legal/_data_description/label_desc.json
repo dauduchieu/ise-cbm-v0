@@ -1,0 +1,22 @@
+{
+    "cited": {
+        "name": "Cited",
+        "description": "The case is mentioned or quoted, often as a reference to a legal point without necessarily applying its reasoning."
+    },
+    "applied": {
+        "name": "Applied",
+        "description": "The legal principle or rule from the case is directly used to decide the issues in a new case."
+    },
+    "considered": {
+        "name": "Considered",
+        "description": "The case is examined or thought about, but its principles may or may not be applied to the final decision."
+    },
+    "followed": {
+        "name": "Followed",
+        "description": "The reasoning and decision of the case are accepted as binding precedent and are used to decide a new case with similar facts."
+    },
+    "referred to": {
+        "name": "Referred To",
+        "description": "The case is pointed to or directed attention towards, often for background or as one of several authorities on a point."
+    }
+}

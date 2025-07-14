@@ -1,0 +1,7 @@
+{
+  "data_topic": "Stack Overflow question quality classification",
+  "text_column": "Body",
+  "label_column": "Y",
+  "text_description": "The body content of a question posted on Stack Overflow.",
+  "label_description": "The quality classification of the question."
+}

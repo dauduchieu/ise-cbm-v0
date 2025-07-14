@@ -1,0 +1,7 @@
+{
+  "data_topic": "medical abstract sectioning",
+  "text_column": "abstract_text",
+  "label_column": "target",
+  "text_description": "A single sentence from a medical research abstract.",
+  "label_description": "The structural role of the sentence within the abstract."
+}

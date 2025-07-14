@@ -1,0 +1,7 @@
+{
+  "data_topic": "ecommerce product classification",
+  "text_column": "text",
+  "label_column": "label",
+  "text_description": "The description and title of an e-commerce product.",
+  "label_description": "The category to which the product belongs."
+}

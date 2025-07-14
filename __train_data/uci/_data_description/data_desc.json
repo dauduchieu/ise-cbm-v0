@@ -1,0 +1,7 @@
+{
+  "data_topic": "drug review sentiment analysis",
+  "text_column": "review",
+  "label_column": "rating",
+  "text_description": "A patient's review of a specific drug.",
+  "label_description": "The patient's rating of the drug on a scale, used here as a sentiment label."
+}

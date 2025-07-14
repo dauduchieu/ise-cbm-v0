@@ -1,0 +1,22 @@
+{
+  "OBJECTIVE": {
+    "name": "Objective",
+    "description": "Sentences that describe the main purpose, goal, or research question of the study."
+  },
+  "METHODS": {
+    "name": "Methods",
+    "description": "Sentences detailing the methodology used in the study, including study design, participants, interventions, and statistical analysis."
+  },
+  "RESULTS": {
+    "name": "Results",
+    "description": "Sentences presenting the main findings and outcomes of the research, often including statistical data."
+  },
+  "CONCLUSIONS": {
+    "name": "Conclusions",
+    "description": "Sentences summarizing the study's main takeaways, interpretations of the results, and implications."
+  },
+  "BACKGROUND": {
+    "name": "Background",
+    "description": "Sentences providing context, previous research, and the rationale for conducting the current study."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Household": {
+    "name": "Household",
+    "description": "Items used within a house, including kitchenware, home decor, furniture, cleaning supplies, and appliances."
+  },
+  "Books": {
+    "name": "Books",
+    "description": "Physical or digital books across various genres, including fiction, non-fiction, educational, and comics."
+  },
+  "Clothing & Accessories": {
+    "name": "Clothing & Accessories",
+    "description": "Wearable items such as apparel (shirts, pants, dresses), footwear, and accessories like bags, jewelry, and watches."
+  },
+  "Electronics": {
+    "name": "Electronics",
+    "description": "Products related to electronic devices, gadgets, and accessories such as mobiles, laptops, cameras, and their components."
+  }
+}

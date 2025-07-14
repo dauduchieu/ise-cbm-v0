@@ -1,0 +1,14 @@
+{
+  "HQ": {
+    "name": "High-Quality",
+    "description": "A well-formed, clear, and useful question that is likely to receive good answers."
+  },
+  "LQ_EDIT": {
+    "name": "Low-Quality (Editable)",
+    "description": "A question that has potential but is currently unclear, lacks details, or has formatting issues. It can be improved through editing."
+  },
+  "LQ_CLOSE": {
+    "name": "Low-Quality (Closed)",
+    "description": "A very low-quality question that is unlikely to be answered, is off-topic, or is a duplicate. It is a candidate for being closed."
+  }
+}

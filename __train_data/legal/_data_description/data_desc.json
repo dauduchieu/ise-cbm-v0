@@ -1,0 +1,7 @@
+{
+  "data_topic": "legal text classification",
+  "text_column": "case_text",
+  "label_column": "case_outcome",
+  "text_description": "The full text of a legal case document.",
+  "label_description": "The outcome or manner in which the case was treated or referenced."
+}
