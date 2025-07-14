@@ -15,7 +15,7 @@ source setup.sh
 
 # train:
 ```bash
-source run.sh /working/ise-cbm-v0/_raw_data True
+source run.sh /working/ise-cbm-v0/__train_data/legal True
 ```
 
 ## param:
