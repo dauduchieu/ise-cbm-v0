@@ -18,7 +18,11 @@ source setup.sh
 source run.sh /working/ise-cbm-v0/_raw_data True
 ```
 
-## Param:
+## param:
 - ``` $1: data folder ```
 - ``` $2: is_test: True/False ```
 
+# download output (local comp):
+```bash
+scp -P 42047 root@167.179.138.57:/workspace/ise-cbm-v0/output/hcen.ipynb ./
+```
