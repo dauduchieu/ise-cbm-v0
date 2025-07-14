@@ -1,5 +1,5 @@
 {
   "api_key": "AIzaSyB2veR7cSHhbcBt3t1O0r9UlGudLO12GEM",
   "model": "gemini-2.5-flash-lite-preview-06-17",
-  "rate_per_minute": 13
+  "rate_per_minute": 10
 }
