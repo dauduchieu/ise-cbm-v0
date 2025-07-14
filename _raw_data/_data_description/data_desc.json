@@ -1,0 +1,7 @@
+{
+    "data_topic": "medical",
+    "text_column": "medical_abstract",
+    "label_column": "condition_label",
+    "text_description": "medical abstract",
+    "label_description": "condition label"
+}
