@@ -22,7 +22,21 @@ source run.sh /workspace/ise-cbm-v0/__train_data/legal True
 - ``` $1: data folder ```
 - ``` $2: is_test: True/False ```
 
+# show progress:
+```bash
+mkdir output
+cd output
+scp -P 42047 root@167.179.138.57:/workspace/ise-cbm-v0/log.txt ./
+cat log.txt
+```
+
 # download output (local comp):
 ```bash
 scp -P 42047 root@167.179.138.57:/workspace/ise-cbm-v0/output/hcen.ipynb ./
+```
+```bash
+scp -P 42047 root@167.179.138.57:/workspace/ise-cbm-v0/data/concepts/keyword_concepts.json ./
+```
+```bash
+scp -P 42047 root@167.179.138.57:/workspace/ise-cbm-v0/data/concepts/abstract_concepts.json ./
 ```
