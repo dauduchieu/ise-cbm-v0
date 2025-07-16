@@ -26,3 +26,9 @@ source run.sh /workspace/ise-cbm-v0/__train_data/legal True
 ```bash
 scp -P 42047 root@167.179.138.57:/workspace/ise-cbm-v0/output/hcen.ipynb ./
 ```
+```bash
+scp -P 42047 root@167.179.138.57:/workspace/ise-cbm-v0/data/concepts/keyword_concepts.json ./
+```
+```bash
+scp -P 42047 root@167.179.138.57:/workspace/ise-cbm-v0/data/concepts/abstract_concepts.json ./
+```
