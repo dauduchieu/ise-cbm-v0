@@ -1,30 +1,10 @@
-1. data preprocessing
-data preprocessing done
-
-2. concept generating
-keyword extracting
-concept gen done
-
-3. weak labeling
-text lamma
-creating synonym
-weak labeling
-weak labeling done
-
-4. training scorer
-sample train bert: kw: 1086, abstract: 764
-train keyword scorer
-train abstract scorer
-train scorer done
-
-5. training network
-precompute
-precompute keyword
-precompute abstract
-train epochs
-Early stopping at epoch 31. Best Val Loss: 2.3634
-test
-
+1. Concept Gen:
+1. Concept Gen:
+Keywords: 25, Abstract: 14
+2. Train Scorer:
+Training sample: keyword: 543, abstract: 382
+Best val acc: keyword: 0.5, abstract: 0.5
+3. Network:
 ===== Test Result =====
                                  precision    recall  f1-score   support
 
@@ -38,5 +18,3 @@ general pathological conditions       0.00      0.00      0.00       1.0
                       macro avg       0.00      0.00      0.00       5.0
                    weighted avg       0.00      0.00      0.00       5.0
 
-
-all done
